@@ -1,0 +1,7 @@
+How to run:
+
+Open CMD With Admin Perms,
+cd to the path with the main.py or whatever itll be called,
+run it as admin and itll close the cmd and reopen!
+
+All done :)
